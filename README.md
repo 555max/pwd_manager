@@ -1,0 +1,1 @@
+simple encrypted password manager.
